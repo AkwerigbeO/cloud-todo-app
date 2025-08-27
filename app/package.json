@@ -1,0 +1,12 @@
+{
+    "name": "cloud-todo-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for Docker + Terraform demo",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    }, 
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
